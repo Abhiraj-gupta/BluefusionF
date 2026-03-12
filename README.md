@@ -2,6 +2,9 @@
 
 A full-stack application with React frontend and Node.js backend.
 
+## 🚀 Live Demo
+🔗 https://bluefusion.vercel.app
+
 ## Project Structure
 
 ```
